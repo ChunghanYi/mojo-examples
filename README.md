@@ -1,7 +1,7 @@
 # mojo-examples
-Mojo programming examples
+Mojo programming examples based on Mojo 1.0.0b2
 
-## How to build
+## How to build and run mojo codes
 ```
 <Ubuntu 22.04 LTS>
 -------------------
@@ -21,5 +21,10 @@ $ pixi shell
 (src) $ ./first
 Who are you? michael
 Hi, michael!
-
 ```
+
+## My blog posting for this project
+  For more information, please refer to my blog post below.<br>
+  https://slowbootkernelhacks.blogspot.com/2026/05/mojo-programming-language.html
+  <br>
+  <br>
